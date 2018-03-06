@@ -1,6 +1,7 @@
 # Buku Petunjuk Praktikum Konsep Pemrograman
 
 Lumbun ini digunakan untuk menyimpan *source* untuk modul praktikum konsep pemrograman di Institut Teknologi Indonesia.
+HUAHAHAHAHAHAA
 
 ## Kompilasi
 
